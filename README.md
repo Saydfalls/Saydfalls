@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working to jumpstart my postgraduate career!<br>I'm looking to lead and collaborate on team-based projects<br>I'm looking for help with my first developer project<br>I'm currently learning JavaScript<br>Ask me about my first experience coding!<br>Fun fact: My first cellphone was a blackberry-esque phone I fixed myself at age 12!<br>
+🤓 I'm currently working to jumpstart my postgraduate career!<br>👯‍♂️ I'm looking to lead and collaborate on team-based projects<br>🤝 I'm looking for help with my first developer project<br>💻I'm currently learning JavaScript<br>Ask me about my first experience coding!<br>📳 Fun fact: My first cellphone was a blackberry-esque phone I fixed myself at age 12!<br>
 
 
 ## 🌐 Socials:
